@@ -202,7 +202,9 @@ When this completes doing the settings, your instance is now on production mode 
 
 This also will mean that your instance will start automatically even in the event you restart the server.
 
-### Ref
+Default User is Administrator and use password you entered while creating new site.
 
+## To setup multitenancy check out this link
 - https://frappeframework.com/docs/v13/user/en/bench/guides/setup-multitenancy
-- 
+
+
