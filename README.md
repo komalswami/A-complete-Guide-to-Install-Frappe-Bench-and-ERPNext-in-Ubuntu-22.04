@@ -133,6 +133,11 @@ Now press (Ctrl-X) to exit
 ```
 sudo service mysql restart
 ```
+### Install frappe-bench
+```
+sudo -H pip3 install frappe-bench
+bench --version
+```
 
 ### Install frappe-bench
 Initialize Frappe Bench
