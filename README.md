@@ -139,7 +139,6 @@ sudo -H pip3 install frappe-bench
 bench --version
 ```
 
-### Install frappe-bench
 Initialize Frappe Bench
 
 ```
